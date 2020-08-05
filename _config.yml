@@ -105,4 +105,4 @@ theme: catus #landscape
 deploy:
   type: 'git'
   repo: git@github.com:aple521fjx/fjx_blog.github.io.git
-  branch: master
+  branch: develop
